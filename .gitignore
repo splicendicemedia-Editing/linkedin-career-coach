@@ -1,0 +1,10 @@
+# Never commit anyone's answers, contacts or trackers
+my-linkedin/
+*.tracker.md
+tracker.md
+story-bank.md
+voice.md
+settings.md
+.env
+*.env
+*.zip
